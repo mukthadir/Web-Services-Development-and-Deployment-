@@ -1,0 +1,6 @@
+C:\Users\Mukthadir\Desktop\DSOD\Assignment 1\TemperatureConverter\TestWcfServiceConsoleApp\bin\Debug\TestWcfServiceConsoleApp.exe.config
+C:\Users\Mukthadir\Desktop\DSOD\Assignment 1\TemperatureConverter\TestWcfServiceConsoleApp\bin\Debug\TestWcfServiceConsoleApp.exe
+C:\Users\Mukthadir\Desktop\DSOD\Assignment 1\TemperatureConverter\TestWcfServiceConsoleApp\bin\Debug\TestWcfServiceConsoleApp.pdb
+C:\Users\Mukthadir\Desktop\DSOD\Assignment 1\TemperatureConverter\TestWcfServiceConsoleApp\obj\Debug\TestWcfServiceConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\Mukthadir\Desktop\DSOD\Assignment 1\TemperatureConverter\TestWcfServiceConsoleApp\obj\Debug\TestWcfServiceConsoleApp.exe
+C:\Users\Mukthadir\Desktop\DSOD\Assignment 1\TemperatureConverter\TestWcfServiceConsoleApp\obj\Debug\TestWcfServiceConsoleApp.pdb
